@@ -8,6 +8,8 @@
 ## 📖 Prerequisites
 - Arduino R3 UNO
 
+## 💪 Features
+- Every Project has __TINKER CAD__ .png image showing how Arduino should be connected with components
 # Getting Started
 
 ## ⬇️ Installation
